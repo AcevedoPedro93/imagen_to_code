@@ -1,0 +1,4 @@
+Dependencias de desarrollo
+npm install --save-dev prettier ---- para formatear nuestro codigo
+npx shadcn-ui@latest init --- configuramos para usar creador de componentes
+npx shadcn-ui@latest add button  -- al agregar un componente ejecutar segun requ
